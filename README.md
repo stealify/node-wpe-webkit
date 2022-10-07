@@ -1,0 +1,2 @@
+# node-wpe-webkit
+Traditionally WebKit is associated with a specific widget toolkit library (GTK, Qt, Cocoa,...) but WPEWebKit breaks with this monolithic design and thus enables a new range of use-cases. By delegating the final web page rendering to dedicated view-backends, WPEWebKit allows flexible and tight integration in a wide range of hardware platforms. We also provide a Qt5 QML plugin that can easily replace the deprecated QtWebKit-based module. 
